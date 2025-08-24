@@ -56,6 +56,10 @@ I am a dedicated full stack developer with extensive experience in building scal
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Esbuild](https://img.shields.io/badge/Esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
 
+### Collaboration & Project Management
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
 ### Design & Multimedia
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
